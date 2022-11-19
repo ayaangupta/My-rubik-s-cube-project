@@ -1,0 +1,34 @@
+body{
+    background: linear-gradient( purple, red) ;
+}
+
+h1{
+    color: green;
+}
+
+h2{
+    color: green;
+}
+
+.cubes{
+    width: 150px;
+    height: 150px;
+}
+
+.parallax-inner{
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.row{
+    float: left;
+    padding: 95px;
+}
+
+#row{
+    float: left
+}
+
+#videos {
+    clear: both;
+}
